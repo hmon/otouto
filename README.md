@@ -183,7 +183,7 @@ The "fortune.lua" plugin requires the fortune program to be installed on the hos
 "admins" table includes the ID numbers, as integers, of any privileged users. These will have access to the admin plugin and any addition privileged commands.
 
 "people" table is for the personality plugin:
-`["55994550"] = "topkecleon"`
+`["55994550"] = "topkecleon nagaiidam"`
 
 ID number must be a string. The second string is the nickname to be given to the identified user when a personality greeting is triggered.
 
